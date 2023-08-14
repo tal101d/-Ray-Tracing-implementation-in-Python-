@@ -8,7 +8,7 @@ Furthermore, the code possesses the ability to generate renderings within a spec
 
 The code also incorporates the Soft Shadows technique, which is resource-intensive yet affords heightened realism. This technique involves casting a grid of rays for each light source to estimate the light received from non-negligible volume light sources at a given point.
 
-A sample render output for the file "original2.txt":![Rendered Scene](https://github.com/tal101d/-Ray-Tracing-implementation-in-Python-/assets/116706412/c83a5e9a-7643-483f-8969-4a3f47411842)
+A sample render output:![Rendered Scene](https://github.com/tal101d/-Ray-Tracing-implementation-in-Python-/assets/116706412/c83a5e9a-7643-483f-8969-4a3f47411842)
 
 
 
